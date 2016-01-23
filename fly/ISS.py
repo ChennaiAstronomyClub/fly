@@ -36,3 +36,4 @@ class ISS:
         alpha = watermark.split()[3]
         out_file = 'iss' + str(int(time())) + '.jpg'
         Image.composite(watermark, img, watermark).save(out_file, 'JPEG')
+        return out_file

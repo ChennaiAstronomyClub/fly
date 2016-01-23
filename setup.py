@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='fly',
-    version='1.0',
+    version='1.1',
     description='Automatic flyers/posters for the Chennai Astronomy Club',
     url='https://github.com/ChennaiAstronomyClub/fly',
     author='Sivasubramanyam A, Sidharth Srinivasan',
