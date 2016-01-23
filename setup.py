@@ -11,7 +11,5 @@ setup(
     packages=['fly'],
     zip_safe=False,
     install_requires=[
-        'Pillow',
-        'csv',
     ],
 )
