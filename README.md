@@ -26,7 +26,7 @@ flyer.fly("Message Here")
 ```
 #### Sample
 
-![Sample](iss1453568747.jpg)
+![Sample](iss1453567387.jpg)
 
 Functionality will be extended in the coming days to cover all our events. The following are the targets that are aimed to be covered.
 
