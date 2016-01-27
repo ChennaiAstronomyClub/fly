@@ -6,9 +6,7 @@ fly is an automated flyer/poster maker that works on Python and PIL.
 #### Requirements
 
 1. [PIL](http://pillow.readthedocs.org/en/3.0.x/installation.html)
-2. arial.ttf
-  1. Download from [here](https://github.com/JotJunior/PHP-Boleto-ZF2/raw/master/public/assets/fonts/arial.ttf)
-  2. Copy it to /usr/share/fonts/truetype
+2. Microsoft core fonts(if using Linux). Use `sudo apt-get install ttf-mscorefonts-installer`.
 
 #### Installation
 
